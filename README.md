@@ -1,7 +1,7 @@
 ## How To Design a Good API and Why it Matters with Joshua Bloch
 
-<a href="https://youtu.be/aAb7hSCtvGw">
-<img src="https://img.youtube.com/vi/aAb7hSCtvGw/hqdefault.jpg" width="600" height="350">
+<a href="https://youtu.be/heh4OeB9A-c">
+<img src="https://img.youtube.com/vi/heh4OeB9A-c/hqdefault.jpg" width="600" height="350">
 </a>
 
 ### Why It Matters
