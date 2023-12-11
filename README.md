@@ -357,7 +357,7 @@ Partial failure - When a server or network fails to respond.
 
 Web service is dependent on SOAP which isn't lightweight but RESTapi lightweight
 
-**RESTAPI is a set of guidelines to design an API**
+**REST API is a set of guidelines to design an API**
 
 4 Principles of APIs
 
